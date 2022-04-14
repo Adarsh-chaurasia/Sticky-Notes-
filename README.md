@@ -15,9 +15,11 @@
 ![](Images/SearchButton.png)
 
 ## Delete Button
+![](Images/deleteButton2.png)
+
 ![](Images/DeleteButton1.png)
 
-![](Images/deleteButton2.png)
+
 
 
 
