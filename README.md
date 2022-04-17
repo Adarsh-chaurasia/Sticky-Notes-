@@ -20,6 +20,8 @@
 ![](Images/DeleteButton1.png)
 
 
+## added a Title field 
+![](AddTitle.png)
 
 
 
